@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  margin: 20px 10px;
+  color: #666;
+  background-image: url(http://hatenablog.com/images/theme/backgrounds/theme13.png);
+}
+a {
+  color: #666;
+  text-decoration: none;
+}
+
+ul#links {
+  margin: 0 auto;
+  padding: 0;
+  min-width: 300px;
+  max-width: 900px;
+  list-style: none;
+  font-family: "Spicy Rice", Verdana, Arial, sans-serif;
+  font-size: 15px;
+}
+ul#links li {
+  margin: 0 0 0.8em;
+  padding: 0 0 0 20px;
+  float: left;
+  width: 280px;
+  height: 16px;
+  background-repeat: no-repeat;
+  white-space: nowrap;
+}
+ul#links li.atnd            { background-image: url(http://favicon.st-hatena.com/?url=http://atnd.org/);            }
+ul#links li.codeforces      { background-image: url(http://favicon.st-hatena.com/?url=http://codeforces.com/);      }
+ul#links li.coderepos       { background-image: url(http://favicon.st-hatena.com/?url=http://coderepos.org/share/); }
+ul#links li.coderwall       { background-image: url(http://favicon.st-hatena.com/?url=http://coderwall.com/);       }
+ul#links li.github          { background-image: url(http://favicon.st-hatena.com/?url=http://github.com/);          }
+ul#links li.hatena-blog     { background-image: url(http://favicon.st-hatena.com/?url=http://hatenablog.com/);      }
+ul#links li.hatena-bookmark { background-image: url(http://favicon.st-hatena.com/?url=http://b.hatena.ne.jp/);      }
+ul#links li.hatena-diary    { background-image: url(http://favicon.st-hatena.com/?url=http://d.hatena.ne.jp/);      }
+ul#links li.rubygems        { background-image: url(http://favicon.st-hatena.com/?url=http://rubygems.org/);        }
+ul#links li.runkeeper       { background-image: url(http://favicon.qfor.info/f/http://runkeeper.com/);              }
+ul#links li.topcoder        { background-image: url(http://favicon.st-hatena.com/?url=http://topcoder.com/);        }
+ul#links li.tophatenar      { background-image: url(http://favicon.st-hatena.com/?url=http://tophatenar.com/);      }
+ul#links li.twitter         { background-image: url(http://favicon.st-hatena.com/?url=http://twitter.com/);         }
+ul#links li.wordpress       { background-image: url(http://favicon.st-hatena.com/?url=http://wordpress.org/);       }
