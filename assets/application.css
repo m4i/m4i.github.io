@@ -34,7 +34,6 @@ ul#links li {
   white-space: nowrap;
 }
 ul#links li.atnd            { background-image: url(http://favicon.st-hatena.com/?url=http://atnd.org/);            }
-ul#links li.codeforces      { background-image: url(http://favicon.st-hatena.com/?url=http://codeforces.com/);      }
 ul#links li.coderepos       { background-image: url(http://favicon.st-hatena.com/?url=http://coderepos.org/share/); }
 ul#links li.coderwall       { background-image: url(http://favicon.st-hatena.com/?url=http://coderwall.com/);       }
 ul#links li.github          { background-image: url(http://favicon.st-hatena.com/?url=http://github.com/);          }
